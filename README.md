@@ -1,9 +1,10 @@
 # 💫 About Me:
-            Hi and welcome to my profile! I am a freelance full-stack developer with expertise in a wide range of technologies.
-       I specialize in HTML5, CSS3, JavaScript, React, Node.js, Next.js, and MongoDB.
+        
+    Hi and welcome to my profile! I am a freelance full-stack developer with expertise in a wide range of technologies. 
+I specialize in HTML5, CSS3, JavaScript, React, Node.js, Next.js, and MongoDB.
 
-            As a full-stack developer, I have a deep understanding of both the front-end and back-end aspects of web development.
-       I have experience in creating responsive and user-friendly web applications that are optimized for performance and scalability.
+    As a full-stack developer, I have a deep understanding of both the front-end and back-end aspects of web development.
+I have experience in creating responsive and user-friendly web applications that are optimized for performance and scalability.
 
         
 ## 🌐 Socials:
