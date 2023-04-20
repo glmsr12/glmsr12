@@ -1,19 +1,11 @@
 # 💫 About Me:
-       Hi and welcome to my profile! I am a freelance full-stack developer with expertise in a wide range of technologies. I specialize in HTML5, CSS3, JavaScript, React, Node.js, Next.js, and MongoDB.
+            Hi and welcome to my profile! I am a freelance full-stack developer with expertise in a wide range of technologies.
+       I specialize in HTML5, CSS3, JavaScript, React, Node.js, Next.js, and MongoDB.
 
-       As a full-stack developer, I have a deep understanding of both the front-end and back-end aspects of web development. I have experience in creating responsive and user-friendly web applications that are optimized for performance and scalability.
+            As a full-stack developer, I have a deep understanding of both the front-end and back-end aspects of web development.
+       I have experience in creating responsive and user-friendly web applications that are optimized for performance and scalability.
 
-        My proficiency in the latest technologies allows me to create innovative and efficient solutions for my clients. I always strive to deliver high-quality work that meets the requirements of my clients and exceeds their expectations.
-
-      I possess hands-on experience working with a variety of technologies, including:
-            * Front-end technologies such as HTML, CSS, JavaScript, React, jQuery, and Bootstrap
-            * Back-end technologies such as Node.js and PHP
-            * Databases like MongoDB and MySQL
-            * Web frameworks including Express
-            * Cloud services like AWS and Google Cloud
-            * Other tools like Git, npm, Webpack, Sass, and Less, among others.
-      I have practical knowledge and expertise in working with these technologies and have successfully delivered projects utilizing them.
-
+        
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gulumser-cakmak-bbaa1222b/) 
 
